@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">What To Eat</string>
+    <string name="add_food_hint">Add new restaurant</string>
+    <string name="add_restaurant_button">ADD RESTAURANT</string>
+    <string name="decide_button">Decide!</string>
+    <string name="lets_see_choice">Lets see the choice!</string>
 </resources>
